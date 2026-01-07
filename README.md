@@ -1,5 +1,6 @@
 # WIDS
 This is a summary of my work on this project so far:
+I worked on creating a GBM notebook to simulate prices using random walk/gbm. I plotted the final prices and observed their distribution
 
 I have created a fully functional orderbook (can handle both limit and market orders) class in which I have implemented the following classes:
      order -> consisting of the actual order
